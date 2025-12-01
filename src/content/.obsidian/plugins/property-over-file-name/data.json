@@ -1,0 +1,13 @@
+{
+  "propertyKey": "title",
+  "enableForLinking": true,
+  "enableForQuickSwitcher": true,
+  "includeFilenameInSearch": true,
+  "includeAliasesInSearch": true,
+  "enableForDragDrop": true,
+  "useSimpleSearch": false,
+  "enableForGraphView": true,
+  "enableForBacklinks": true,
+  "enableForTabs": true,
+  "enableForWindowTitle": true
+}
